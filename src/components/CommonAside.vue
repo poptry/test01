@@ -24,6 +24,7 @@
     width: 200px;
     min-height: 400px;
 }
+
 .el-menu {
     height: 100vh;
     border-right: none;
