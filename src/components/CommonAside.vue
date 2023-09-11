@@ -91,10 +91,10 @@ export default {
     },
     methods: {
         handleOpen(key, keyPath) {
-            console.log(key, keyPath);
+            // console.log(key, keyPath);
         },
         handleClose(key, keyPath) {
-            console.log(key, keyPath);
+            // console.log(key, keyPath);
         },
         clickMenu(item) {
             //当页面的路由与跳转路由不一致的时候才跳转
